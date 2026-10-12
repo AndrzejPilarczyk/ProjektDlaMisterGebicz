@@ -12,10 +12,10 @@ Viruses:
 1.2x.Progenitor Virus -> 1.3x.Project W
 	||
 	\/
-1.1a.T-Virus -> 1.2a.Alpha strain, 1.3a.Beta strain, 1.4a.Epsilion strain, 1.5a. Unnamed "Prototype" strain, 1.6a. Mutated strain
+1.2a.T-Virus -> 1.3a.Alpha strain, 1.4a.Beta strain, 1.5a.Epsilion strain, 1.6a. Unnamed "Prototype" strain, 1.7a. Mutated strain
 1.2b.G-Virus
-1.3c.Uroboros
-1.4d.C-Virus
+1.2c.Uroboros
+1.2d.C-Virus
 ---------------
 Parasites:
 
